@@ -15,7 +15,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import random
 
-data = pd.read_csv("C:/Users/kaele/OneDrive/Documents/IUPUI/Fall 2024/T562 - Sports Analytics/Final Project/data/final_data.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/kaelecord/Marathon-Pacing-Calculator/refs/heads/main/data/final_data.csv")
 
 def seconds_to_time(split_seconds):
     minutes, seconds = divmod(split_seconds, 60)
