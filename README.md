@@ -1,7 +1,7 @@
 # Finding the Optimal Marathon Pacing Strategy
 
 [Pacing Calculator Application](https://optimal-marathon-pacing-calculator.streamlit.app/)
-[Project Report]()
+[Project Report](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fkaelecord%2FMarathon-Pacing-Calculator%2Frefs%2Fheads%2Fmain%2FFinding%2520the%2520Optimal%2520Marathon%2520Pacing%2520Strategy%2520-%2520Report.docx&wdOrigin=BROWSELINK)
 
 
 ## Overview
