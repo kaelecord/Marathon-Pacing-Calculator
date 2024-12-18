@@ -5,7 +5,7 @@
 
 
 ## Overview
-This project explores the science of marathon pacing and provides actionable insights to help runners optimize their race performance. Using race results from three major marathons—2022 and 2023 Indianapolis Monumental Marathon, 2022 Berlin Marathon, and 2024 Chicago Marathon—two models were developed to predict personalized pacing strategies based on a runner’s demographic and performance characteristics:
+This project explores the difficulties of choosing an optimal marathon pacing strategy and provides actionable insights to help runners optimize their race performance. Using race results from three major marathons—2022 and 2023 Indianapolis Monumental Marathon, 2022 Berlin Marathon, and 2024 Chicago Marathon—two models were developed to generate personalized pacing strategies based on a runner’s demographic and performance characteristics:
  - Weighted Average Model
  - Genetic Algorithm
 These models leverage age, gender, and target finish time to recommend pacing strategies tailored to individual runners. The findings are presented through an interactive Streamlit web application, enabling marathoners and coaches to generate and explore customized pacing plans.
