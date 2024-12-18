@@ -1,6 +1,8 @@
 # Finding the Optimal Marathon Pacing Strategy
 
-[Access Calculator](https://optimal-marathon-pacing-calculator.streamlit.app/)
+[Pacing Calculator Application](https://optimal-marathon-pacing-calculator.streamlit.app/)
+[Project Report]()
+
 
 ## Overview
 This project explores the science of marathon pacing and provides actionable insights to help runners optimize their race performance. Using race results from three major marathons—2022 and 2023 Indianapolis Monumental Marathon, 2022 Berlin Marathon, and 2024 Chicago Marathon—two models were developed to predict personalized pacing strategies based on a runner’s demographic and performance characteristics:
