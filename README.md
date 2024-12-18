@@ -19,4 +19,4 @@ The web application provides the following capabilities:
 These outputs allow users to compare strategies and track their progress using on-course timing clocks during the race.
 
 ## Access the Application 
-The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. [https://optimal-marathon-pacing-calculator.streamlit.app/]
+The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. (Streamlit Link)[https://optimal-marathon-pacing-calculator.streamlit.app/]
