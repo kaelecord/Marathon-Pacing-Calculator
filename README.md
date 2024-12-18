@@ -1,4 +1,7 @@
 # Finding the Optimal Marathon Pacing Strategy
+
+[Access Calculator](https://optimal-marathon-pacing-calculator.streamlit.app/)
+
 ## Overview
 This project explores the science of marathon pacing and provides actionable insights to help runners optimize their race performance. Using race results from three major marathons—2022 and 2023 Indianapolis Monumental Marathon, 2022 Berlin Marathon, and 2024 Chicago Marathon—two models were developed to predict personalized pacing strategies based on a runner’s demographic and performance characteristics:
  - Weighted Average Model
@@ -19,4 +22,4 @@ The web application provides the following capabilities:
 These outputs allow users to compare strategies and track their progress using on-course timing clocks during the race.
 
 ## Access the Application 
-The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. [Streamlit Link](https://optimal-marathon-pacing-calculator.streamlit.app/)
+The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. 
