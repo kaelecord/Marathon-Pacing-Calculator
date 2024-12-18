@@ -18,5 +18,5 @@ The web application provides the following capabilities:
    - Detailed Table: Displays individual split times and cumulative times for each segment of the race.
 These outputs allow users to compare strategies and track their progress using on-course timing clocks during the race.
 
-## Access the Application
-The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. [Add the application URL here, e.g., https://yourapp.streamlit.app]
+## Access the Application 
+The web application is hosted on Streamlit and integrates seamlessly with a GitHub repository to manage all files and updates. [https://optimal-marathon-pacing-calculator.streamlit.app/]
